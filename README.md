@@ -58,7 +58,7 @@ Le pipeline s'exécute automatiquement chaque matin à 9h00 via le Planificateur
 
 Les offres retenues sont envoyées sous forme de message structuré via un bot Telegram : titre, localisation, source, type de contrat, score, et lien direct vers l'annonce.
 
-![Aperçu Telegram](telegram_preview.png)
+<img src="telegram_preview.png" width="380" alt="Aperçu Telegram" />
 
 ## 🖥️ Démo interactive
 
@@ -68,7 +68,7 @@ Une application Shiny présente un échantillon de résultats réellement produi
 
 > La démo affiche un échantillon figé de résultats. Le pipeline complet (collecte, scoring, livraison Telegram) s'exécute en local de façon planifiée.
 
-![Aperçu de la démo](demo_preview.png)
+<img src="demo_preview.png" width="700" alt="Aperçu de la démo" />
 
 ## 🛠️ Stack technique
 
